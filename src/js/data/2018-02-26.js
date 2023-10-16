@@ -8,6 +8,12 @@ dataSet[dataSetVersion].options = [
     tooltip: "Check this to restrict to certain groups.",
     checked: false,
     sub: [
+      { name: "MILGRAM", key: "milgram" },
+      { name: "Pokémon", key: "pokemon" },
+      { name: "Danganronpa", key: "dg" },
+      { name: "Senran Kagura", key: "sk" },
+      { name: "Ace Attorney", key: "aa" },
+      { name: "When They Cry", key: "wtc" },
       { name: "765 pro", key: "765" },
       { name: "876 pro", key: "876" },
       { name: "Jupiter", key: "jup" },
@@ -25,6 +31,13 @@ dataSet[dataSetVersion].options = [
 ];
 
 dataSet[dataSetVersion].characterData = [
+  {
+    name: "Amane Momose",
+    img: "NsEaaux.png",
+    opts: {
+      groups: ["milgram"]
+    }
+  },
   {
     name: "Haruka Amami",
     img: "4RlkIsE.png",
