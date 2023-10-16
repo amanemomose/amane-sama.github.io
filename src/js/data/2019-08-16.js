@@ -1,4 +1,4 @@
-dataSetVersion = "2019-08-16"; // Change this when creating a new data set version. YYYY-MM-DD format.
+dataSetVersion = "2018-02-26"; // Change this when creating a new data set version. YYYY-MM-DD format.
 dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
@@ -26,7 +26,6 @@ dataSet[dataSetVersion].options = [
       { name: "CINDERELLA PROJECT", key: "cp" },
       { name: "DS Side Characters", key: "ds" },
       { name: "Puchimas!", key: "puc" },
-      { name: "Leon", key: "leon" }
     ]
   },
  {
@@ -78,50 +77,106 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Haruka Amami",
-    img: "4RlkIsE.png",
+    name: "Himiko Yumeno",
+    img: "dvOWQFO.png",
     opts: {
-      groups: ["765"]
+      groups: ["dg"]
     }
   },
   {
-    name: "Chihaya Kisaragi",
-    img: "9PwGjBl.png",
+    name: "Kirumi Toujou",
+    img: "m7qCPZt.png",
     opts: {
-      groups: ["765"]
+      groups: ["dg"]
     }
   },
   {
-    name: "Miki Hoshii",
-    img: "m1RJxWd.png",
+    name: "Tenko Chabashira",
+    img: "tO9GGkr.png",
     opts: {
-      groups: ["765"]
+      groups: ["dg"]
     }
   },
   {
-    name: "Yukiho Hagiwara",
-    img: "3nvAZe8.png",
+    name: "Miu Iruma",
+    img: "tO9GGkr.png",
     opts: {
-      groups: ["765"]
+      groups: ["dg"]
     }
   },
   {
-    name: "Yayoi Takatsuki",
-    img: "kKjc0mp.png",
+    name: "Angie Yonaga",
+    img: "dmhTNXb.png",
     opts: {
-      groups: ["765"]
+      groups: ["dg"]
     }
   },
   {
-    name: "Makoto Kikuchi",
-    img: "RxufeL4.png",
+    name: "Sayaka Maizono",
+    img: "Gnab3qY.png",
     opts: {
-      groups: ["765"]
+      groups: ["dg"]
     }
   },
+  {
+    name: "Kyouko Kirigiri",
+    img: "8NZfpMZ.png",
+    opts: {
+      groups: ["dg"]
+    }
+  },
+  {
+    name: "Mahiru Koizumi",
+    img: "QlqtM51.png",
+    opts: {
+      groups: ["dg"]
+    }
+  },
+  {
+    name: "Chiaki Nanami",
+    img: "gIIV5KK.png",
+    opts: {
+      groups: ["dg"]
+    }
+  },
+  {
+    name: "Maki Harukawa",
+    img: "Em7fefG.png",
+    opts: {
+      groups: ["dg"]
+    }
+  },
+  {
+    name: "Tsumugi Shirogane",
+    img: "6LmTIja.png",
+    opts: {
+      groups: ["dg"]
+    }
+  },
+  {
+    name: "Kaede Akamatsu",
+    img: "t4rCpm8.png",
+    opts: {
+      groups: ["dg"]
+    }
+  },
+  {
+    name: "Celestia Ludenberg",
+    img: "INWSljb.png",
+    opts: {
+      groups: ["dg"]
+    }
+  },
+  {
+    name: "Junko Enoshima",
+    img: "YLpgoqZ.png",
+    opts: {
+      groups: ["dg"]
+    }
+  },    
   {
     name: "Ami Futami",
-    img: "sAcndPF.png",
+    img: "I4he2yL.png",
     opts: {
       groups: ["765"]
     }
@@ -141,197 +196,8 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Azusa Miura",
-    img: "I5uEIqm.png",
-    opts: {
-      groups: ["765"]
-    }
-  },
-  {
-    name: "Ritsuko Akizuki",
-    img: "7SmqB1L.png",
-    opts: {
-      groups: ["765"]
-    }
-  },
-  {
-    name: "Takane Shijou",
-    img: "AKhROlu.png",
-    opts: {
-      groups: ["765"]
-    }
-  },
-  {
-    name: "Hibiki Ganaha",
-    img: "7fgdyNb.png",
-    opts: {
-      groups: ["765"]
-    }
-  },
-  {
-    name: "Kotori Otonashi",
-    img: "mVpmoJj.png",
-    opts: {
-      groups: ["765"]
-    }
-  },
-  {
-    name: "Ryou Akizuki",
-    img: "bbapCeA.png",
-    opts: {
-      groups: ["876"]
-    }
-  },
-  {
-    name: "Eri Mizutani",
-    img: "PbGa2Ei.png",
-    opts: {
-      groups: ["876"]
-    }
-  },
-  {
-    name: "Ai Hidaka",
-    img: "qCZQeQj.png",
-    opts: {
-      groups: ["876"]
-    }
-  },
-  {
-    name: "Yuriko Nanao",
-    img: "ygiymCk.png",
-    opts: {
-      groups: ["ml"]
-    }
-  },
-  {
     name: "Momoko Suou",
     img: "hGVnSNv.png",
-    opts: {
-      groups: ["ml"]
-    }
-  },
-  {
-    name: "Matsuri Tokugawa",
-    img: "fF1vIRL.png",
-    opts: {
-      groups: ["ml"]
-    }
-  },
-  {
-    name: "Megumi Tokoro",
-    img: "RSPVZiq.png",
-    opts: {
-      groups: ["ml"]
-    }
-  },
-  {
-    name: "Fuka Toyokawa",
-    img: "TM8t0f1.png",
-    opts: {
-      groups: ["ml"]
-    }
-  },
-  {
-    name: "Iku Nakatani",
-    img: "3pmlvMn.png",
-    opts: {
-      groups: ["ml"]
-    }
-  },
-  {
-    name: "Chizuru Nikaido",
-    img: "spD8zPF.png",
-    opts: {
-      groups: ["ml"]
-    }
-  },
-  {
-    name: "Roco Handa",
-    img: "GlQSfVZ.png",
-    opts: {
-      groups: ["ml"]
-    }
-  },
-  {
-    name: "Miya Miyao",
-    img: "pMeAEak.png",
-    opts: {
-      groups: ["ml"]
-    }
-  },
-  {
-    name: "Mirai Kasuga",
-    img: "2sQEdi4.png",
-    opts: {
-      groups: ["ml"]
-    }
-  },
-  {
-    name: "Hinata Kinoshita",
-    img: "xFRI7aS.png",
-    opts: {
-      groups: ["ml"]
-    }
-  },
-  {
-    name: "Julia",
-    img: "594Occ9.png",
-    opts: {
-      groups: ["ml"]
-    }
-  },
-  {
-    name: "Sayoko Takayama",
-    img: "WPNx3Ud.png",
-    opts: {
-      groups: ["ml"]
-    }
-  },
-  {
-    name: "Kotoha Tanaka",
-    img: "hP6pT8e.png",
-    opts: {
-      groups: ["ml"]
-    }
-  },
-  {
-    name: "Tomoka Tenkubashi",
-    img: "HMSwOpL.png",
-    opts: {
-      groups: ["ml"]
-    }
-  },
-  {
-    name: "Arisa Matsuda",
-    img: "CvaKtjX.png",
-    opts: {
-      groups: ["ml"]
-    }
-  },
-  {
-    name: "Shizuka Mogami",
-    img: "ckLqdhZ.png",
-    opts: {
-      groups: ["ml"]
-    }
-  },
-  {
-    name: "Anna Mochizuki",
-    img: "t7QOGQs.png",
-    opts: {
-      groups: ["ml"]
-    }
-  },
-  {
-    name: "Kana Yabuki",
-    img: "V5NSzX1.png",
-    opts: {
-      groups: ["ml"]
-    }
-  },
-  {
-    name: "Serika Hakozaki",
-    img: "6PestTr.png",
     opts: {
       groups: ["ml"]
     }
@@ -1875,54 +1741,10 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Chitose Kurosaki",
-    img: "cQhyTe6.png",
+    name: "Mai Hidaka",
+    img: "sZxZZ3b.png",
     opts: {
-      groups: ["cg",
-        "cgv"]
-    }
-  },
-  {
-    name: "Chiyo Shirayuki",
-    img: "0bjAdj3.png",
-    opts: {
-      groups: ["cg",
-        "cgv"]
-    }
-  },
-  {
-    name: "Akari Tsujino",
-    img: "pLh6DQL.png",
-    opts: {
-      groups: ["cg"]
-    }
-  },
-  {
-    name: "Akira Sunazuka",
-    img: "P7mFXGB.png",
-    opts: {
-      groups: ["cg", "cgv"]
-    }
-  },
-  {
-    name: "Nagi Hisakawa",
-    img: "oHDoWHL.png",
-    opts: {
-      groups: ["cg", "cgv"]
-    }
-  },
-  {
-    name: "Hayate Hisakawa",
-    img: "ZiHqks1.png",
-    opts: {
-      groups: ["cg", "cgv"]
-    }
-  },
-  {
-    name: "Riamu Yumemi",
-    img: "fQujkrC.png",
-    opts: {
-      groups: ["cg"]
+      groups: ["ds"]
     }
   },
   {
@@ -2056,13 +1878,6 @@ dataSet[dataSetVersion].characterData = [
     img: "piCfUrm.png",
     opts: {
       groups: ["puc"]
-    }
-  },
-  {
-    name: "Leon",
-    img: "yYEO0Ye.png",
-    opts: {
-      groups: ["leon"]
     }
   }
 ]
