@@ -35,8 +35,8 @@ dataSet[dataSetVersion].options = [
   tooltip: "check this to restrict certain types",
   checked: true,
   sub: [
-    { name: "Lolis", key: "loli", },
-    { name: "Femboys", key: "fem", }
+    { name: "Lolis", key: "loli" },
+    { name: "Femboys", key: "fem" }
   ]
  }
 ];
