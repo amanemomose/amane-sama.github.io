@@ -8,18 +8,13 @@ dataSet[dataSetVersion].options = [
     tooltip: "Check this to restrict to certain groups.",
     checked: false,
     sub: [
-      { name: "765 pro", key: "765" },
-      { name: "876 pro", key: "876" },
-      { name: "Jupiter", key: "jup" },
-      { name: "Cinderella Girls", key: "cg" },
-      { name: "Million Live", key: "ml" },
-      { name: "SideM", key: "sm" },
-      { name: "Voiced CG", key: "cgv" },
-      { name: "Anime CG", key: "cga" },
-      { name: "CINDERELLA PROJECT", key: "cp" },
-      { name: "DS Side Characters", key: "ds" },
-      { name: "Puchimas!", key: "puc" },
-      { name: "Leon", key: "leon" }
+      { name: "MILGRAM", key: "milgram" },
+      { name: "Pokémon", key: "pokemon" },
+      { name: "Danganronpa", key: "dg" },
+      { name: "Senran Kagura", key: "sk" },
+      { name: "Ace Attorney", key: "aa" },
+      { name: "When They Cry", key: "wtc" },
+      { name: "Voiced CG", key: "cgv" }
     ]
   }
 ];
