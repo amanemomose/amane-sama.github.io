@@ -10,16 +10,17 @@ dataSet[dataSetVersion].options = [
     sub: [
       { name: "MILGRAM", key: "milgram" },
       { name: "Pokémon", key: "pokemon" },
+      { name: "Hololive", key: "holo" },
       { name: "Danganronpa", key: "dg" },
+      { name: "Genshin Impact", key: "genshin" },
+      { name: "Nikke", key: "nikke" },
       { name: "Senran Kagura", key: "sk" },
       { name: "Ace Attorney", key: "aa" },
       { name: "When They Cry", key: "wtc" },
       { name: "765 pro", key: "765" },
       { name: "876 pro", key: "876" },
-      { name: "Jupiter", key: "jup" },
       { name: "Cinderella Girls", key: "cg" },
       { name: "Million Live", key: "ml" },
-      { name: "SideM", key: "sm" },
       { name: "Voiced CG", key: "cgv" },
       { name: "Anime CG", key: "cga" },
       { name: "CINDERELLA PROJECT", key: "cp" },
@@ -27,7 +28,17 @@ dataSet[dataSetVersion].options = [
       { name: "Puchimas!", key: "puc" },
       { name: "Leon", key: "leon" }
     ]
-  }
+  },
+ {
+  name: "Filter by Type",
+  key: "type",
+  tooltip: "check this to restrict certain types",
+  checked: true,
+  sub: [
+    { name: "Lolis", key: "loli", },
+    { name: "Femboys", key: "fem", }
+  ]
+ }
 ];
 
 dataSet[dataSetVersion].characterData = [
