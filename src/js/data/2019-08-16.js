@@ -39,6 +39,34 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Yuno Kashiki",
+    img: "2t8EFeq.png",
+    opts: {
+      groups: ["milgram"]
+    }
+  },
+  {
+    name: "Muu Kusunoki",
+    img: "3mfOhO2.png",
+    opts: {
+      groups: ["milgram"]
+    }
+  },
+  {
+    name: "Mahiru Shiina",
+    img: "ymwCIS8.png",
+    opts: {
+      groups: ["milgram"]
+    }
+  },
+  {
+    name: "Kotoko Yuzuriha",
+    img: "LZfszZC.png",
+    opts: {
+      groups: ["milgram"]
+    }
+  },
+  {
     name: "Haruka Amami",
     img: "4RlkIsE.png",
     opts: {
