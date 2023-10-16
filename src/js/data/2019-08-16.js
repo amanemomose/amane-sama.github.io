@@ -14,12 +14,30 @@ dataSet[dataSetVersion].options = [
       { name: "Senran Kagura", key: "sk" },
       { name: "Ace Attorney", key: "aa" },
       { name: "When They Cry", key: "wtc" },
-      { name: "Voiced CG", key: "cgv" }
+      { name: "765 pro", key: "765" },
+      { name: "876 pro", key: "876" },
+      { name: "Jupiter", key: "jup" },
+      { name: "Cinderella Girls", key: "cg" },
+      { name: "Million Live", key: "ml" },
+      { name: "SideM", key: "sm" },
+      { name: "Voiced CG", key: "cgv" },
+      { name: "Anime CG", key: "cga" },
+      { name: "CINDERELLA PROJECT", key: "cp" },
+      { name: "DS Side Characters", key: "ds" },
+      { name: "Puchimas!", key: "puc" },
+      { name: "Leon", key: "leon" }
     ]
   }
 ];
 
 dataSet[dataSetVersion].characterData = [
+  {
+    name: "Amane Momose",
+    img: "NsEaaux.png",
+    opts: {
+      groups: ["milgram"]
+    }
+  },
   {
     name: "Haruka Amami",
     img: "4RlkIsE.png",
