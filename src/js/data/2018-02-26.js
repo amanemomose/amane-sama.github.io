@@ -33,7 +33,7 @@ dataSet[dataSetVersion].options = [
   name: "Filter by Type",
   key: "type",
   tooltip: "check this to restrict certain types",
-  checked: true,
+  checked: false,
   sub: [
     { name: "Lolis", key: "loli" },
     { name: "Femboys", key: "fem" }
