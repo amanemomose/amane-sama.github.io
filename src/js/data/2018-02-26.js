@@ -32,7 +32,7 @@ dataSet[dataSetVersion].options = [
   key: 'loli',
   tooltip: 'Check this if you want to remove lolis from being listed.'
   checked: true,
-}
+      }
     ]
   }
 ];
