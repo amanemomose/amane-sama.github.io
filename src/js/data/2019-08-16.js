@@ -29,14 +29,14 @@ dataSet[dataSetVersion].options = [
     ]
   }
  {
-  name: "Filter by Media",
-  key: "medias",
-  tooltip: "Check this if you want to filter out certain series."
-  checked: true,
-  sub: [
-    { name: 'Anime', key: 'anime' },
-    { name: 'Games', key: 'game' },
-    { name: 'Others', key: 'other' },
+    name: "Filter by Media",
+    key: "medias",
+    tooltip: "Check this if you want to filter out certain series."
+    checked: true,
+    sub: [
+      { name: 'Anime', key: 'anime' },
+      { name: 'Games', key: 'game' },
+      { name: 'Others', key: 'other' },
   ]
 }
 ];
