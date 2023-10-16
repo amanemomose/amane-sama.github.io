@@ -11,7 +11,6 @@ dataSet[dataSetVersion].options = [
       { name: "MILGRAM", key: "milgram" },
       { name: "Pokémon", key: "pokemon" },
       { name: "Danganronpa", key: "dg" },
-      { name: "Hololive", key: "holo" },
       { name: "Senran Kagura", key: "sk" },
       { name: "Ace Attorney", key: "aa" },
       { name: "When They Cry", key: "wtc" },
