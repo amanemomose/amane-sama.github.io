@@ -3,7 +3,7 @@ dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
   {
-    name: "Filter by Group",
+    name: "Filter by Series",
     key: "groups",
     tooltip: "Check this to restrict to certain groups.",
     checked: false,
