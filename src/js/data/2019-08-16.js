@@ -27,7 +27,6 @@ dataSet[dataSetVersion].options = [
       { name: "DS Side Characters", key: "ds" },
       { name: "Puchimas!", key: "puc" },
       { name: "Leon", key: "leon" }
-      { name: 'Filter Lolis', key: 'loli', tooltip: 'Check this if you want to remove lolis from being listed.' checked: true,}
     ]
   }
 ];
