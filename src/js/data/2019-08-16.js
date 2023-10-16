@@ -10,16 +10,17 @@ dataSet[dataSetVersion].options = [
     sub: [
       { name: "MILGRAM", key: "milgram" },
       { name: "Pokémon", key: "pokemon" },
+      { name: "Hololive", key: "holo" },
       { name: "Danganronpa", key: "dg" },
+      { name: "Genshin Impact", key: "genshin" },
+      { name: "Nikke", key: "nikke" },
       { name: "Senran Kagura", key: "sk" },
       { name: "Ace Attorney", key: "aa" },
       { name: "When They Cry", key: "wtc" },
       { name: "765 pro", key: "765" },
       { name: "876 pro", key: "876" },
-      { name: "Jupiter", key: "jup" },
       { name: "Cinderella Girls", key: "cg" },
       { name: "Million Live", key: "ml" },
-      { name: "SideM", key: "sm" },
       { name: "Voiced CG", key: "cgv" },
       { name: "Anime CG", key: "cga" },
       { name: "CINDERELLA PROJECT", key: "cp" },
@@ -27,7 +28,17 @@ dataSet[dataSetVersion].options = [
       { name: "Puchimas!", key: "puc" },
       { name: "Leon", key: "leon" }
     ]
-  }
+  },
+ {
+  name: "Filter by Type",
+  key: "type",
+  tooltip: "check this to restrict certain types",
+  checked: true,
+  sub: [
+    { name: "Lolis", key: "loli", },
+    { name: "Femboys", key: "fem", }
+  ]
+ }
 ];
 
 dataSet[dataSetVersion].characterData = [
@@ -183,293 +194,6 @@ dataSet[dataSetVersion].characterData = [
     img: "qCZQeQj.png",
     opts: {
       groups: ["876"]
-    }
-  },
-  {
-    name: "Touma Amagase",
-    img: "K8r3cEQ.png",
-    opts: {
-      groups: ["jup"]
-    }
-  },
-  {
-    name: "Hokuto Ijuuin",
-    img: "y37DV2C.png",
-    opts: {
-      groups: ["jup"]
-    }
-  },
-  {
-    name: "Shouta Mitarai",
-    img: "KEk4RdN.png",
-    opts: {
-      groups: ["jup"]
-    }
-  },
-  {
-    name: "Teru Tendo",
-    img: "XOaTifg.png",
-    opts: {
-      groups: ["sm"]
-    }
-  },
-  {
-    name: "Kaoru Sakuraba",
-    img: "1khHJb0.png",
-    opts: {
-      groups: ["sm"]
-    }
-  },
-  {
-    name: "Tsubasa Kashiwagi",
-    img: "Q4KUwSP.png",
-    opts: {
-      groups: ["sm"]
-    }
-  },
-  {
-    name: "Kei Tsuzuki",
-    img: "Wej0Ngi.png",
-    opts: {
-      groups: ["sm"]
-    }
-  },
-  {
-    name: "Rei Kagura",
-    img: "XYmDvY3.png",
-    opts: {
-      groups: ["sm"]
-    }
-  },
-  {
-    name: "Pierre",
-    img: "ZJ5LqDh.png",
-    opts: {
-      groups: ["sm"]
-    }
-  },
-  {
-    name: "Kyoji Takajo",
-    img: "x6hWR9b.png",
-    opts: {
-      groups: ["sm"]
-    }
-  },
-  {
-    name: "Minori Watanabe",
-    img: "RfvhGto.png",
-    opts: {
-      groups: ["sm"]
-    }
-  },
-  {
-    name: "Kyosuke Aoi",
-    img: "e2UqLCK.png",
-    opts: {
-      groups: ["sm"]
-    }
-  },
-  {
-    name: "Yusuke Aoi",
-    img: "kzyPnVM.png",
-    opts: {
-      groups: ["sm"]
-    }
-  },
-  {
-    name: "Hideo Akuno",
-    img: "sde9ZTs.png",
-    opts: {
-      groups: ["sm"]
-    }
-  },
-  {
-    name: "Ryu Kimura",
-    img: "gD68Hhy.png",
-    opts: {
-      groups: ["sm"]
-    }
-  },
-  {
-    name: "Seiji Shingen",
-    img: "eyakO3P.png",
-    opts: {
-      groups: ["sm"]
-    }
-  },
-  {
-    name: "Kuro Kiyosumi",
-    img: "vDpP898.png",
-    opts: {
-      groups: ["sm"]
-    }
-  },
-  {
-    name: "Kirio Nekoyanagi",
-    img: "vZOBunn.png",
-    opts: {
-      groups: ["sm"]
-    }
-  },
-  {
-    name: "Shoma Hanamura",
-    img: "G6LuJDU.png",
-    opts: {
-      groups: ["sm"]
-    }
-  },
-  {
-    name: "Hayato Akiyama",
-    img: "YRCu4we.png",
-    opts: {
-      groups: ["sm"]
-    }
-  },
-  {
-    name: "Jun Fuyumi",
-    img: "wjC3o56.png",
-    opts: {
-      groups: ["sm"]
-    }
-  },
-  {
-    name: "Natsuki Sakaki",
-    img: "8KKSliR.png",
-    opts: {
-      groups: ["sm"]
-    }
-  },
-  {
-    name: "Haruna Wakazato",
-    img: "q171J1G.png",
-    opts: {
-      groups: ["sm"]
-    }
-  },
-  {
-    name: "Shiki Iseya",
-    img: "zM0FBXf.png",
-    opts: {
-      groups: ["sm"]
-    }
-  },
-  {
-    name: "Suzaku Akai",
-    img: "8F584LE.png",
-    opts: {
-      groups: ["sm"]
-    }
-  },
-  {
-    name: "Genbu Kurono",
-    img: "m3T1HMG.png",
-    opts: {
-      groups: ["sm"]
-    }
-  },
-  {
-    name: "Yukihiro Kamiya",
-    img: "JTEYafx.png",
-    opts: {
-      groups: ["sm"]
-    }
-  },
-  {
-    name: "Soichiro Shinonome",
-    img: "8l8Rrkd.png",
-    opts: {
-      groups: ["sm"]
-    }
-  },
-  {
-    name: "Asselin BB II",
-    img: "uhCPu3Q.png",
-    opts: {
-      groups: ["sm"]
-    }
-  },
-  {
-    name: "Makio Uzuki",
-    img: "Qpdcpbe.png",
-    opts: {
-      groups: ["sm"]
-    }
-  },
-  {
-    name: "Saki Mizushima",
-    img: "5ywu0yF.png",
-    opts: {
-      groups: ["sm"]
-    }
-  },
-  {
-    name: "Nao Okamura",
-    img: "q7ZJn5j.png",
-    opts: {
-      groups: ["sm"]
-    }
-  },
-  {
-    name: "Shiro Tachibana",
-    img: "XBgda4S.png",
-    opts: {
-      groups: ["sm"]
-    }
-  },
-  {
-    name: "Kanon Himeno",
-    img: "9wheBB1.png",
-    opts: {
-      groups: ["sm"]
-    }
-  },
-  {
-    name: "Michio Hazama",
-    img: "o57zdoL.png",
-    opts: {
-      groups: ["sm"]
-    }
-  },
-  {
-    name: "Rui Maita",
-    img: "GuyXvb8.png",
-    opts: {
-      groups: ["sm"]
-    }
-  },
-  {
-    name: "Jiro Yamashita",
-    img: "DK0pglt.png",
-    opts: {
-      groups: ["sm"]
-    }
-  },
-  {
-    name: "Takeru Taiga",
-    img: "P8HD3XM.png",
-    opts: {
-      groups: ["sm"]
-    }
-  },
-  {
-    name: "Ren Kizaki",
-    img: "Q1GGH7P.png",
-    opts: {
-      groups: ["sm"]
-    }
-  },
-  {
-    name: "Michiru Enjoji",
-    img: "dL85btc.png",
-    opts: {
-      groups: ["sm"]
-    }
-  },
-  {
-    name: "Ken Yamamura",
-    img: "mk3pcGO.png",
-    opts: {
-      groups: ["sm"]
     }
   },
   {
