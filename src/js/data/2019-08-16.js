@@ -11,6 +11,7 @@ dataSet[dataSetVersion].options = [
       { name: "MILGRAM", key: "milgram" },
       { name: "Pokémon", key: "pokemon" },
       { name: "Danganronpa", key: "dg" },
+      { name: "Hololive", key: "holo" },
       { name: "Senran Kagura", key: "sk" },
       { name: "Ace Attorney", key: "aa" },
       { name: "When They Cry", key: "wtc" },
@@ -26,19 +27,9 @@ dataSet[dataSetVersion].options = [
       { name: "DS Side Characters", key: "ds" },
       { name: "Puchimas!", key: "puc" },
       { name: "Leon", key: "leon" }
+      { name: 'Filter Lolis', key: 'loli', tooltip: 'Check this if you want to remove lolis from being listed.' checked: true,}
     ]
   }
- {
-    name: "Filter by Media",
-    key: "medias",
-    tooltip: "Check this if you want to filter out certain series."
-    checked: true,
-    sub: [
-      { name: 'Anime', key: 'anime' },
-      { name: 'Games', key: 'game' },
-      { name: 'Others', key: 'other' },
-  ]
-}
 ];
 
 dataSet[dataSetVersion].characterData = [
