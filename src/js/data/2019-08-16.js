@@ -28,6 +28,17 @@ dataSet[dataSetVersion].options = [
       { name: "Leon", key: "leon" }
     ]
   }
+ {
+  name: "Filter by Media",
+  key: "medias",
+  tooltip: "Check this if you want to filter out certain series."
+  checked: true,
+  sub: [
+    { name: 'Anime', key: 'anime' },
+    { name: 'Games', key: 'game' },
+    { name: 'Others', key: 'other' },
+  ]
+}
 ];
 
 dataSet[dataSetVersion].characterData = [
