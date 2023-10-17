@@ -324,7 +324,7 @@ dataSet[dataSetVersion].characterData = [
   }, 
   {
     name: "Ami Futami",
-    img: "I4he2yL.png",
+    img: "sAcndPF.png",
     opts: {
       groups: ["idolmaster"],
       media: ["anime"]
@@ -494,6 +494,84 @@ dataSet[dataSetVersion].characterData = [
   {
     name: "Pan",
     img: "ibQ0n3J.png",
+    opts: {
+      type: ["loli"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Nonon Jakuzure",
+    img: "P9HIYuJ.png",
+    opts: {
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Siesta",
+    img: "G7hTJIn.png",
+    opts: {
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Maria Ushiromiya",
+    img: "uiJloey.png",
+    opts: {
+      groups: ["wtc"],
+      type: ["loli"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Kazemaru Ichirouta",
+    img: "5uRDbMQ.png",
+    opts: {
+      type: ["femboy"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Sakura Haruno",
+    img: "KLk0upF.png",
+    opts: {
+      groups: ["naruto"],
+      media: ["anime"]
+    }
+  },
+    {
+    name: "Louise Françoise",
+    img: "UITvFGo.png",
+    opts: {
+      media: ["anime"]
+    }
+  },
+    {
+    name: "Nanako Doujima",
+    img: "7DzksxK.png",
+    opts: {
+      groups: ["persona"],
+      type: ["loli"],
+      media: ["game"]
+    }
+  },
+    {
+    name: "Sakura Kinomoto",
+    img: "TbdKJni.png",
+    opts: {
+      type: ["loli"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Makoto Kowata",
+    img: "6yK8yoe.png",
+    opts: {
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Ringo Akai",
+    img: "sxcycnD.png",
     opts: {
       type: ["loli"],
       media: ["anime"]
