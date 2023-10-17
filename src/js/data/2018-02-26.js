@@ -419,6 +419,13 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Yuka Nakano",
+    img: "btkeO2A.png",
+    opts: {
+      groups: ["cg"]
+    }
+  },
+  {
     name: "Airi Totoki",
     img: "G1KopHP.png",
     opts: {
