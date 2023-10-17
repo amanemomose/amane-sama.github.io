@@ -17,13 +17,7 @@ dataSet[dataSetVersion].options = [
       { name: "Senran Kagura", key: "sk" },
       { name: "Ace Attorney", key: "aa" },
       { name: "When They Cry", key: "wtc" },
-      { name: "765 pro", key: "765" },
-      { name: "876 pro", key: "876" },
-      { name: "Cinderella Girls", key: "cg" },
-      { name: "Million Live", key: "ml" },
-      { name: "Voiced CG", key: "cgv" },
-      { name: "Anime CG", key: "cga" },
-      { name: "CINDERELLA PROJECT", key: "cp" },
+      { name: "Idolmaster", key: "idolmaster" }
     ]
   },
  {
@@ -362,76 +356,80 @@ dataSet[dataSetVersion].characterData = [
     name: "Kanako Mimura",
     img: "04Dfu7i.png",
     opts: {
-      groups: ["cg",
-        "cgv",
-        "cga",
-        "cp"]
+      groups: ["idolmaster"],
+      media: ["anime"]
     }
   },
   {
     name: "Arisa Mochida",
     img: "WbshsNL.png",
     opts: {
-      groups: ["cg"]
+      groups: ["idolmaster"],
+      media: ["anime"]
     }
   },
   {
     name: "Fumika Sagisawa",
     img: "UiIdCkb.png",
     opts: {
-      groups: ["cg",
-        "cgv"]
+      groups: ["idolmaster"],
+      media: ["anime"]
     }
   },
   {
     name: "Momoka Sakurai",
     img: "v0cMZmX.png",
     opts: {
-      groups: ["cg",
-        "cga"]
+      groups: ["idolmaster"],
+      media: ["anime"]
     }
   },
   {
     name: "Koharu Koga",
     img: "Csw6HaA.png",
     opts: {
-      groups: ["cg"]
+      groups: ["idolmaster"],
+      media: ["anime"]
     }
   },
   {
     name: "Rin Shibuya",
     img: "SLTezmo.png",
     opts: {
-      groups: ["cg",
-        "cgv",
-        "cga",
-        "cp"]
+      groups: ["idolmaster"],
+      media: ["anime"]
     }
   },
   {
     name: "Uzuki Shimamura",
     img: "hQw0hDD.png",
     opts: {
-      groups: ["cg",
-        "cgv",
-        "cga",
-        "cp"]
+      groups: ["idolmaster"],
+      media: ["anime"]
     }
   },
   {
     name: "Yuka Nakano",
     img: "btkeO2A.png",
     opts: {
-      groups: ["cg"]
+      groups: ["idolmaster"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Nanami Asari",
+    img: "PAzA3Mw.png",
+    opts: {
+      groups: ["idolmaster"],
+      media: ["anime"]
     }
   },
   {
     name: "Airi Totoki",
     img: "G1KopHP.png",
     opts: {
-      groups: ["cg",
-        "cgv",
-        "cga"]
+      groups: ["idolmaster"],
+      media: ["anime"]
     }
   }
 ]
