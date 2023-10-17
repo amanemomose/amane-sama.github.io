@@ -15,10 +15,18 @@ dataSet[dataSetVersion].options = [
       { name: "Genshin Impact", key: "genshin" },
       { name: "Nikke", key: "nikke" },
       { name: "Senran Kagura", key: "sk" },
+      { name: "Idolmaster", key: "idolmaster" },
       { name: "Ace Attorney", key: "aa" },
       { name: "When They Cry", key: "wtc" },
-      { name: "Idolmaster", key: "idolmaster" },
-      { name: "Naruto", key: "naruto" }
+      { name: "One Piece", key: "op" },
+      { name: "Monogatari Series", key: "monogatari" },
+      { name: "Hunter x Hunter", key: "hxh" },
+      { name: "Kemono Friends", key: "kf" },
+      { name: "Your Turn to Die", key: "yttd" },
+      { name: "Zero Escape", key: "ze" },
+      { name: "Persona", key: "persona" },
+      { name: "Naruto", key: "naruto" },
+      { name: "Infinite Stratos", key: "if" },
     ]
   },
  {
@@ -29,6 +37,8 @@ dataSet[dataSetVersion].options = [
   sub: [
     { name: "Lolis", key: "loli" },
     { name: "Femboys", key: "femboy" }
+    { name: "Witch", key: "witch" }
+    { name: "Pants", key: "pants" }
   ]
  },
  {
@@ -430,6 +440,62 @@ dataSet[dataSetVersion].characterData = [
     img: "G1KopHP.png",
     opts: {
       groups: ["idolmaster"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Miss Valentine",
+    img: "om3fs1O.png",
+    opts: {
+      groups: ["op"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Biscuit Krueger",
+    img: "9hB8xx9.png",
+    opts: {
+      groups: ["hxh"],
+      type: ["loli"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Yukari Sendou",
+    img: "8poGXKk.png",
+    opts: {
+      type: ["loli", "witch"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Anna Mochizuki",
+    img: "bzli0SH.pngg",
+    opts: {
+      groups: ["idolmaster"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Sachiko Koshimizu",
+    img: "mvkRTzr.png",
+    opts: {
+      groups: ["idolmaster"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Tomoko Kuroko",
+    img: "1qDrcHW.png",
+    opts: {
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Pan",
+    img: "ibQ0n3J.png",
+    opts: {
+      type: ["loli"],
       media: ["anime"]
     }
   },
