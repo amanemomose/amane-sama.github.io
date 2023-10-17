@@ -24,8 +24,6 @@ dataSet[dataSetVersion].options = [
       { name: "Voiced CG", key: "cgv" },
       { name: "Anime CG", key: "cga" },
       { name: "CINDERELLA PROJECT", key: "cp" },
-      { name: "DS Side Characters", key: "ds" },
-      { name: "Puchimas!", key: "puc" },
     ]
   },
  {
@@ -45,7 +43,8 @@ dataSet[dataSetVersion].characterData = [
     name: "Amane Momose",
     img: "NsEaaux.png",
     opts: {
-      groups: ["milgram"]
+      groups: ["milgram"],
+      type: ["loli"]
     }
   },
   {
@@ -85,14 +84,14 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kirumi Toujou",
-    img: "m7qCPZt.png",
+    img: "NxFl8Bf.png",
     opts: {
       groups: ["dg"]
     }
   },
   {
     name: "Tenko Chabashira",
-    img: "tO9GGkr.png",
+    img: "m7qCPZt.png",
     opts: {
       groups: ["dg"]
     }
@@ -174,6 +173,98 @@ dataSet[dataSetVersion].characterData = [
       groups: ["dg"]
     }
   },    
+  {
+    name: "Touko Fukawa",
+    img: "I4he2yL.png",
+    opts: {
+      groups: ["dg"]
+    }
+  }, 
+  {
+    name: "Peko Pekoyama",
+    img: "slhvY0y.png",
+    opts: {
+      groups: ["dg"]
+    }
+  }, 
+  {
+    name: "Sonia Nevermind",
+    img: "yNvNCHZ.png",
+    opts: {
+      groups: ["dg"]
+    }
+  }, 
+  {
+    name: "Akane Owari",
+    img: "dxD2dZ3.png",
+    opts: {
+      groups: ["dg"]
+    }
+  }, 
+  {
+    name: "Mikan Tsumiki",
+    img: "VBt1Vct.png",
+    opts: {
+      groups: ["dg"]
+    }
+  }, 
+  {
+    name: "Kotoko Utsugi",
+    img: "wT8J84w.png",
+    opts: {
+      groups: ["dg"]
+    }
+  }, 
+  {
+    name: "Ruruka Andou",
+    img: "7Rovzy3.png",
+    opts: {
+      groups: ["dg"]
+    }
+  }, 
+  {
+    name: "Natsumi Kuzuyuu",
+    img: "SvUi20H.png",
+    opts: {
+      groups: ["dg"]
+    }
+  }, 
+  {
+    name: "Miaya Gekkogahara",
+    img: "aX9lOtC.png",
+    opts: {
+      groups: ["dg"]
+    }
+  }, 
+  {
+    name: "Chisa Yukizome",
+    img: "GTSm2Pi.png",
+    opts: {
+      groups: ["dg"]
+    }
+  }, 
+  {
+    name: "Ibuki Mioda",
+    img: "tP6ShzQ.png",
+    opts: {
+      groups: ["dg"]
+    }
+  }, 
+  {
+    name: "Chihiro Fujisaki",
+    img: "bnU1NR9.png",
+    opts: {
+      groups: ["dg"],
+      type: ["femboy"]
+    }
+  }, 
+  {
+    name: "Monaka Towa",
+    img: "BdXEJ1h.png",
+    opts: {
+      groups: ["dg"]
+    }
+  }, 
   {
     name: "Ami Futami",
     img: "I4he2yL.png",
@@ -1738,146 +1829,6 @@ dataSet[dataSetVersion].characterData = [
       groups: ["cg",
         "cgv",
         "cga"]
-    }
-  },
-  {
-    name: "Mai Hidaka",
-    img: "sZxZZ3b.png",
-    opts: {
-      groups: ["ds"]
-    }
-  },
-  {
-    name: "Reiko Ozaki",
-    img: "I2evbgc.png",
-    opts: {
-      groups: ["ds"]
-    }
-  },
-  {
-    name: "Yumeko Sakurai",
-    img: "OtOa95F.png",
-    opts: {
-      groups: ["ds"]
-    }
-  },
-  {
-    name: "Manami Okamoto",
-    img: "o0cOQpU.png",
-    opts: {
-      groups: ["ds"]
-    }
-  },
-  {
-    name: "Souichi Takeda",
-    img: "eMSA2YY.png",
-    opts: {
-      groups: ["ds"]
-    }
-  },
-  {
-    name: "Cineria",
-    img: "cypETks.png",
-    opts: {
-      groups: ["ds"]
-    }
-  },
-  {
-    name: "Afu",
-    img: "T53g6i5.png",
-    opts: {
-      groups: ["puc"]
-    }
-  },
-  {
-    name: "Chibiki",
-    img: "zpmQao6.png",
-    opts: {
-      groups: ["puc"]
-    }
-  },
-  {
-    name: "Chicchan",
-    img: "sKTgatL.png",
-    opts: {
-      groups: ["puc"]
-    }
-  },
-  {
-    name: "Chihya",
-    img: "pGiaeTN.png",
-    opts: {
-      groups: ["puc"]
-    }
-  },
-  {
-    name: "Harukasan",
-    img: "rFOvk2k.png",
-    opts: {
-      groups: ["puc"]
-    }
-  },
-  {
-    name: "Io",
-    img: "Rg3adR7.png",
-    opts: {
-      groups: ["puc"]
-    }
-  },
-  {
-    name: "Koami",
-    img: "BrSQVQA.png",
-    opts: {
-      groups: ["puc"]
-    }
-  },
-  {
-    name: "Komami",
-    img: "RbZ056x.png",
-    opts: {
-      groups: ["puc"]
-    }
-  },
-  {
-    name: "Makochii",
-    img: "87rOtuj.png",
-    opts: {
-      groups: ["puc"]
-    }
-  },
-  {
-    name: "Miurasan",
-    img: "6EimEs5.png",
-    opts: {
-      groups: ["puc"]
-    }
-  },
-  {
-    name: "Takanya",
-    img: "OJh6DDS.png",
-    opts: {
-      groups: ["puc"]
-    }
-  },
-  {
-    name: "Yayo",
-    img: "5xvbVWV.png",
-    opts: {
-      groups: ["puc"]
-    }
-  },
-  {
-    name: "Yukipo",
-    img: "xaQUAlS.png",
-    opts: {
-      groups: ["puc"]
-    }
-  },
-  {
-    name: "Piyopiyo",
-    img: "piCfUrm.png",
-    opts: {
-      groups: ["puc"]
     }
   }
 ]
