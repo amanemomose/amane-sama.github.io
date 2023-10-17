@@ -17,7 +17,8 @@ dataSet[dataSetVersion].options = [
       { name: "Senran Kagura", key: "sk" },
       { name: "Ace Attorney", key: "aa" },
       { name: "When They Cry", key: "wtc" },
-      { name: "Idolmaster", key: "idolmaster" }
+      { name: "Idolmaster", key: "idolmaster" },
+      { name: "Naruto", key: "naruto" }
     ]
   },
  {
