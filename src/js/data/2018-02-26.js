@@ -392,6 +392,13 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Koharu Koga",
+    img: "Csw6HaA.png",
+    opts: {
+      groups: ["cg"]
+    }
+  },
+  {
     name: "Rin Shibuya",
     img: "SLTezmo.png",
     opts: {
