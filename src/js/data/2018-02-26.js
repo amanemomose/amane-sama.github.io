@@ -431,5 +431,12 @@ dataSet[dataSetVersion].characterData = [
       groups: ["idolmaster"],
       media: ["anime"]
     }
+  },
+  {
+    name: "Natsuki",
+    img: "KJztGEq.png",
+    opts: {
+      media: ["game"]
+    }
   }
 ]
