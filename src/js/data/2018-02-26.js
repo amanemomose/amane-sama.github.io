@@ -36,8 +36,8 @@ dataSet[dataSetVersion].options = [
   checked: false,
   sub: [
     { name: "Lolis", key: "loli" },
-    { name: "Femboys", key: "femboy" }
-    { name: "Witch", key: "witch" }
+    { name: "Femboys", key: "femboy" },
+    { name: "Witch", key: "witch" },
     { name: "Pants", key: "pants" }
   ]
  },
