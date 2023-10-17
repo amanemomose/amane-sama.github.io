@@ -26,7 +26,7 @@ dataSet[dataSetVersion].options = [
       { name: "Zero Escape", key: "ze" },
       { name: "Persona", key: "persona" },
       { name: "Naruto", key: "naruto" },
-      { name: "Infinite Stratos", key: "if" },
+      { name: "Infinite Stratos", key: "if" }
     ]
   },
  {
