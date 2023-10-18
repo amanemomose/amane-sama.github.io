@@ -27,6 +27,7 @@ dataSet[dataSetVersion].options = [
       { name: "Persona", key: "persona" },
       { name: "Naruto", key: "naruto" },
       { name: "Infinite Stratos", key: "if" }
+      { name: "Go-Tōbun no Hanayome", key: "gotobun" }
     ]
   },
  {
@@ -38,6 +39,7 @@ dataSet[dataSetVersion].options = [
     { name: "Lolis", key: "loli" },
     { name: "Femboys", key: "femboy" },
     { name: "Witch", key: "witch" },
+    { name: "Huge", key: "huge" },
     { name: "Pants", key: "pants" }
   ]
  },
@@ -573,6 +575,133 @@ dataSet[dataSetVersion].characterData = [
     name: "Ringo Akai",
     img: "sxcycnD.png",
     opts: {
+      type: ["loli"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Nico Robin",
+    img: "AdFyA3p.png",
+    opts: {
+      groups: ["op"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Wendy",
+    img: "Q5qT31a.png",
+    opts: {
+      type: ["huge"],
+      media: ["game "]
+    }
+  },
+  {
+    name: "Stocking Anarchy",
+    img: "ql6XTJW.png",
+    opts: {
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Lingyin Huang",
+    img: "CQ30n95.png",
+    opts: {
+      groups: ["is"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Tenten",
+    img: "X3GDPsQ.png",
+    opts: {
+      groups: ["naruto"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Cecilia Alcott",
+    img: "Ddwcaix.png",
+    opts: {
+      groups: ["is"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Laura Bodewig",
+    img: "zqCWJhz.png",
+    opts: {
+      groups: ["is"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Charlotte Dunois",
+    img: "VxMiiuH.png",
+    opts: {
+      groups: ["is"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Suzuha Amane",
+    img: "ttOOaw4.png",
+    opts: {
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Aurora Syalis",
+    img: "iap8qCn.png",
+    opts: {
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Luka Urushibara",
+    img: "YSiedCL.png",
+    opts: {
+      type: ["femboy"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Chie Satonaka",
+    img: "zEUq3sI.png",
+    opts: {
+      groups: ["persona"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Perona",
+    img: "huOsTqS.png",
+    opts: {
+      groups: ["op"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Raiha Uesugi",
+    img: "uMZvSuG.png",
+    opts: {
+      groups: ["gotobun"],
+      type: ["loli"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Yukiko Amagi",
+    img: "rUqU94V.png",
+    opts: {
+      groups: ["persona"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Tsukihi Araragi",
+    img: "CgWYeGM.png",
+    opts: {
+      groups: ["monogatari"],
       type: ["loli"],
       media: ["anime"]
     }
