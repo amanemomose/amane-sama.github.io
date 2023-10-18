@@ -707,6 +707,61 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Clover",
+    img: "lG27ZqG.png",
+    opts: {
+      groups: ["ze"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Ponzu",
+    img: "UgfunPy.pngg",
+    opts: {
+      groups: ["hxh"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Rise Kujikawa",
+    img: "Jm0W3d4.png",
+    opts: {
+      groups: ["persona"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Chitanda Eru",
+    img: "5DsMFr5.png",
+    opts: {
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Mito Freecs",
+    img: "SX7LMXQ.png",
+    opts: {
+      groups: ["hxh"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Ema Skye",
+    img: "LgEeZfE.png",
+    opts: {
+      groups: ["aa"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Elaina",
+    img: "grsXZyM.pngg",
+    opts: {
+      type: ["witch"],
+      media: ["anime"]
+    }
+  },
+  {
     name: "Natsuki",
     img: "KJztGEq.png",
     opts: {
