@@ -38,6 +38,7 @@ dataSet[dataSetVersion].options = [
     { name: "Lolis", key: "loli" },
     { name: "Femboys", key: "femboy" },
     { name: "Witch", key: "witch" },
+    { name: "Huge", key: "huge" },
     { name: "Pants", key: "pants" }
   ]
  },
@@ -574,6 +575,53 @@ dataSet[dataSetVersion].characterData = [
     img: "sxcycnD.png",
     opts: {
       type: ["loli"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Nico Robin",
+    img: "AdFyA3p.png",
+    opts: {
+      groups: ["op"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Wendy",
+    img: "Q5qT31a.png",
+    opts: {
+      type: ["huge"],
+      media: ["game "]
+    }
+  },
+  {
+    name: "Stocking Anarchy",
+    img: "ql6XTJW.png",
+    opts: {
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Lingyin Huang",
+    img: "CQ30n95.png",
+    opts: {
+      groups: ["is"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Tenten",
+    img: "X3GDPsQ.png",
+    opts: {
+      groups: ["naruto"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Cecilia Alcott",
+    img: "Ddwcaix.png",
+    opts: {
+      groups: ["is"],
       media: ["anime"]
     }
   },
