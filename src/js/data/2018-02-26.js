@@ -27,6 +27,7 @@ dataSet[dataSetVersion].options = [
       { name: "Persona", key: "persona" },
       { name: "Naruto", key: "naruto" },
       { name: "Infinite Stratos", key: "if" }
+      { name: "Go-Tōbun no Hanayome", key: "gotobun" }
     ]
   },
  {
@@ -622,6 +623,86 @@ dataSet[dataSetVersion].characterData = [
     img: "Ddwcaix.png",
     opts: {
       groups: ["is"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Laura Bodewig",
+    img: "zqCWJhz.png",
+    opts: {
+      groups: ["is"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Charlotte Dunois",
+    img: "VxMiiuH.png",
+    opts: {
+      groups: ["is"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Suzuha Amane",
+    img: "ttOOaw4.png",
+    opts: {
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Aurora Syalis",
+    img: "iap8qCn.png",
+    opts: {
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Luka Urushibara",
+    img: "YSiedCL.png",
+    opts: {
+      type: ["femboy"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Chie Satonaka",
+    img: "zEUq3sI.png",
+    opts: {
+      groups: ["persona"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Perona",
+    img: "huOsTqS.png",
+    opts: {
+      groups: ["op"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Raiha Uesugi",
+    img: "uMZvSuG.png",
+    opts: {
+      groups: ["gotobun"],
+      type: ["loli"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Yukiko Amagi",
+    img: "rUqU94V.png",
+    opts: {
+      groups: ["persona"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Tsukihi Araragi",
+    img: "CgWYeGM.png",
+    opts: {
+      groups: ["monogatari"],
+      type: ["loli"],
       media: ["anime"]
     }
   },
