@@ -27,7 +27,11 @@ dataSet[dataSetVersion].options = [
       { name: "Persona", key: "persona" },
       { name: "Naruto", key: "naruto" },
       { name: "Infinite Stratos", key: "if" },
-      { name: "Go-Tōbun no Hanayome", key: "gotobun" }
+      { name: "Go-Tōbun no Hanayome", key: "gotobun" },
+      { name: "Shingeki no Kyojin", key: "snk" },
+      { name: "Re:zero", key: "rezero" },
+      { name: "Touhou", key: "touhou" },
+      { name: "Love Live!", key: "lovelive" }
     ]
   },
  {
@@ -755,10 +759,233 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Elaina",
-    img: "grsXZyM.pngg",
+    img: "grsXZyM.png",
     opts: {
       type: ["witch"],
       media: ["anime"]
+    }
+  },
+  {
+    name: "Suguha Kirigaya",
+    img: "uXoo2Nz.png",
+    opts: {
+      type: ["huge"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Hana Yurikawa",
+    img: "QQFogcS.png",
+    opts: {
+      type: ["huge"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Mayl",
+    img: "x8Prspi.png",
+    opts: {
+      media: ["game"]
+    }
+  },
+  {
+    name: "Annie Leonhart",
+    img: "VeZ9QjN.png",
+    opts: {
+      groups: ["snk"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Hina",
+    img: "uSMJCvJ.png",
+    opts: {
+      groups: ["hxh"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Mikasa Ackerman",
+    img: "vG3xahL.png",
+    opts: {
+      groups: ["snk"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Historia Reiss",
+    img: "ihZomq4.png",
+    opts: {
+      groups: ["snk"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Pandora",
+    img: "OsgPp0J.png",
+    opts: {
+      groups: ["rezero"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Komeiji Koishi",
+    img: "wVCcens.png",
+    opts: {
+      groups: ["touhou"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Komeiji Satori",
+    img: "dup7Nt6.png",
+    opts: {
+      groups: ["touhou"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Kawashiro Nitori",
+    img: "4Ufced2.png",
+    opts: {
+      groups: ["touhou"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Patchouli Knowledge",
+    img: "A7ZnuHo.png",
+    opts: {
+      groups: ["touhou"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Houraisan Kaguya",
+    img: "2YDuTk3.png",
+    opts: {
+      groups: ["touhou"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Yorigami Shion",
+    img: "LenxXR4.png",
+    opts: {
+      groups: ["touhou"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Kirisame Marisa",
+    img: "tJnkSzK.png",
+    opts: {
+      groups: ["touhou"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Remilia Scarlet",
+    img: "8UX7hKE.png",
+    opts: {
+      groups: ["touhou"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Flandre Scarlet",
+    img: "OhaDcnc.png",
+    opts: {
+      groups: ["touhou"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Izayoi Sakuya",
+    img: "sgZPf11.png",
+    opts: {
+      groups: ["touhou"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Clownpiece",
+    img: "9Jje7ZQ.jpg",
+    opts: {
+      groups: ["touhou"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Hinanawi Tenshi",
+    img: "tZLYivt.png",
+    opts: {
+      groups: ["touhou"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Kazami Yuuka",
+    img: "MZXJQq5.png",
+    opts: {
+      groups: ["touhou"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Inaba Tewi",
+    img: "yqNfNje.png",
+    opts: {
+      groups: ["touhou"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Rumia",
+    img: "0YT7QlS.png",
+    opts: {
+      groups: ["touhou"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Alice Margatroid",
+    img: "aDIf0pN.png",
+    opts: {
+      groups: ["touhou"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Saigyouji Yuyuko",
+    img: "VT9mTGb.png",
+    opts: {
+      groups: ["touhou"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Hakurei Reimu",
+    img: "c5DqpgX.png",
+    opts: {
+      groups: ["touhou"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Inaba Tewi",
+    img: "yqNfNje.png",
+    opts: {
+      groups: ["touhou"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Konpaku Youmu",
+    img: "WMjyRLJ.png",
+    opts: {
+      groups: ["touhou"],
+      media: ["game"]
     }
   },
   {
