@@ -31,7 +31,7 @@ dataSet[dataSetVersion].options = [
       { name: "Shingeki no Kyojin", key: "snk" },
       { name: "Re:zero", key: "rezero" },
       { name: "Touhou", key: "touhou" },
-      { name? "Boku no Hero Academia", key: "bnha"},
+      { name: "Boku no Hero Academia", key: "bnha"},
       { name: "Love Live!", key: "lovelive" }
     ]
   },
