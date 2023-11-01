@@ -31,6 +31,7 @@ dataSet[dataSetVersion].options = [
       { name: "Shingeki no Kyojin", key: "snk" },
       { name: "Re:zero", key: "rezero" },
       { name: "Touhou", key: "touhou" },
+      { name? "Boku no Hero Academia", key: "bnha"},
       { name: "Love Live!", key: "lovelive" }
     ]
   },
@@ -1098,6 +1099,114 @@ dataSet[dataSetVersion].characterData = [
     img: "gbiCCfY.png",
     opts: {
       groups: ["hxh"],
+      type: ["loli"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Hinata Hyuuga",
+    img: "CcrpI0B.png",
+    opts: {
+      groups: ["naruto"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Tsunade",
+    img: "bPAdZzF.png",
+    opts: {
+      groups: ["naruto"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "C.C.",
+    img: "co1wsFN.png",
+    opts: {
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Alluka Zoldyck",
+    img: "PnPEFa0.png",
+    opts: {
+      groups: ["hxh"],
+      type: ["femboy"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Megumu Touzokuyama",
+    img: "HuhtDkr.png",
+    opts: {
+      type: ["femboy"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Hoto Kokoa",
+    img: "1pCCx2m.png",
+    opts: {
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Haruhi Suzumiya",
+    img: "DmUuCKb.png",
+    opts: {
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Renge Miyauchi",
+    img: "T79jVPS.png",
+    opts: {
+      type: ["loli"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Hacka Doll 3",
+    img: "TI107Ru.pngg",
+    opts: {
+      type: ["femboy"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Karen Araragi",
+    img: "yu3c58g.png",
+    opts: {
+      groups: ["monogatari"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Izumi Reina",
+    img: "BwgWMvb.png",
+    opts: {
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Kyouka Jirou",
+    img: "ou2AoaD.png",
+    opts: {
+      groups: ["monogatari"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Rachel Gardner",
+    img: "IxRTNWG.png",
+    opts: {
+      media: ["game"]
+    }
+  },
+  {
+    name: "Tatsumaki",
+    img: "oyua5wQ.png",
+    opts: {
       type: ["loli"],
       media: ["anime"]
     }
