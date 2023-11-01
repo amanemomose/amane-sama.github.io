@@ -44,6 +44,7 @@ dataSet[dataSetVersion].options = [
     { name: "Femboys", key: "femboy" },
     { name: "Witch", key: "witch" },
     { name: "Huge", key: "huge" },
+    { name: "Goth", key: "goth" },
     { name: "Pants", key: "pants" }
   ]
  },
@@ -524,7 +525,7 @@ dataSet[dataSetVersion].characterData = [
     img: "uiJloey.png",
     opts: {
       groups: ["wtc"],
-      type: ["loli"],
+      type: ["loli", "witch"],
       media: ["game"]
     }
   },
@@ -572,6 +573,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Makoto Kowata",
     img: "6yK8yoe.png",
     opts: {
+      type: ["witch"],
       media: ["anime"]
     }
   },
@@ -603,6 +605,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Stocking Anarchy",
     img: "ql6XTJW.png",
     opts: {
+      type: ["goth"],
       media: ["anime"]
     }
   },
@@ -973,19 +976,130 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Inaba Tewi",
-    img: "yqNfNje.png",
+    name: "Konpaku Youmu",
+    img: "WMjyRLJ.png",
     opts: {
       groups: ["touhou"],
       media: ["game"]
     }
   },
   {
-    name: "Konpaku Youmu",
-    img: "WMjyRLJ.png",
+    name: "Akiyama Yukari",
+    img: "Il72tEP.png",
     opts: {
-      groups: ["touhou"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Nozomi Yumehara",
+    img: "2SJ8mTp.png",
+    opts: {
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Anzu Kinashi",
+    img: "eBi8CY0.png",
+    opts: {
+      groups: ["yttd"],
       media: ["game"]
+    }
+  },
+  {
+    name: "Mayoi Hachikuji",
+    img: "v1AENfp.png",
+    opts: {
+      groups: ["monogatari"],
+      type: ["loli"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Rikka Takanashi",
+    img: "MoU620s.png",
+    opts: {
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Kafuu Chino",
+    img: "hM1KCqU.png",
+    opts: {
+      type: ["loli"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Honoka Kousaka",
+    img: "t6hcicH.png",
+    opts: {
+      groups: ["lovelive"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Maki Nishikino",
+    img: "NQk9VNQ.png",
+    opts: {
+      groups: ["lovelive"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Kalluto Zoldyck",
+    img: "o6uqA8e.png",
+    opts: {
+      groups: ["hxh"],
+      type: ["femboy"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Piyon",
+    img: "S1uyPwv.png",
+    opts: {
+      groups: ["hxh"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Marie",
+    img: "nSVVQoi.png",
+    opts: {
+      groups: ["persona"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Elizabeth Liones",
+    img: "BdQZPm0.png",
+    opts: {
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Franziska Von Karma",
+    img: "nekhxkC.png",
+    opts: {
+      groups: ["aa"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Maya Fey",
+    img: "us0QlsJ.png",
+    opts: {
+      groups: ["aa"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Sugar",
+    img: "gbiCCfY.png",
+    opts: {
+      groups: ["hxh"],
+      type: ["loli"],
+      media: ["anime"]
     }
   },
   {
