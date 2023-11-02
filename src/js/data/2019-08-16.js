@@ -1212,6 +1212,227 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Akane Kurashiki",
+    img: "XLcroJ6.png",
+    opts: {
+      groups: ["ze"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Phi",
+    img: "plmRVrI.png",
+    opts: {
+      groups: ["ze"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Alice",
+    img: "6DiwpkQ.png",
+    opts: {
+      groups: ["ze"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Lotus",
+    img: "EnJX5ru.png",
+    opts: {
+      groups: ["ze"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Luna",
+    img: "bGciwnT.png",
+    opts: {
+      groups: ["ze"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "April May",
+    img: "kKm35JS.png",
+    opts: {
+      groups: ["aa"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Ruby Kurosawa",
+    img: "h5U3RzH.png",
+    opts: {
+      groups: ["lovelive"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Rem",
+    img: "rWzVUB3.png",
+    opts: {
+      groups: ["rezero"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Neferpitou",
+    img: "hDylnpH.png",
+    opts: {
+      groups: ["hxh"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Haru Okumura",
+    img: "ouiAeGo.png",
+    opts: {
+      groups: ["persona"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Mt. Lady",
+    img: "gwF1lm9.png",
+    opts: {
+      groups: ["bnha"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Uraraka Ochako",
+    img: "RWGy3LG.png",
+    opts: {
+      groups: ["bnha"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Onodera Kosaki",
+    img: "QFSYQAE.png",
+    opts: {
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Usami Mizuki",
+    img: "v1RaxbC.png",
+    opts: {
+    }
+  },
+  {
+    name: "Aoba Suzukaze",
+    img: "qD0hISM.png",
+    opts: {
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Midna",
+    img: "Y2fhzGX.png",
+    opts: {
+      media: ["game"]
+    }
+  },
+  {
+    name: "Hifumi Takimoto",
+    img: "YcBZGmz.png",
+    opts: {
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Nadeko Sengoku",
+    img: "PHrqpvb.png",
+    opts: {
+      groups: ["monogatari"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Morgan Fey",
+    img: "R64DpAb.png",
+    opts: {
+      groups: ["aa"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Maho Hiyajou",
+    img: "GVB41F3.png",
+    opts: {
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Lucina",
+    img: "mdXxOEI.png",
+    opts: {
+      media: ["game"]
+    }
+  },
+  {
+    name: "Shinobu Oshino",
+    img: "lDNXuHM.png",
+    opts: {
+      groups: ["monogatari"],
+      type: ["loli"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Sayaka Miyata",
+    img: "lKPhbmJ.png",
+    opts: {
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Aoba Kazane",
+    img: "pAB6IDm.png",
+    opts: {
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Non Toyoguchi",
+    img: "LRn6bBv.png",
+    opts: {
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Hanabi Kawaii",
+    img: "4vwSlaH.png",
+    opts: {
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Emilia",
+    img: "xsB2X8I.png",
+    opts: {
+      groups: ["rezero"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Astolfo",
+    img: "U46YaMe.png",
+    opts: {
+      type: ["femboy"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Kanna Kamui",
+    img: "NpRcFCF.png",
+    opts: {
+      type: ["loli"],
+      media: ["anime"]
+    }
+  },
+  {
     name: "Natsuki",
     img: "KJztGEq.png",
     opts: {
