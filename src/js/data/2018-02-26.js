@@ -343,7 +343,7 @@ dataSet[dataSetVersion].characterData = [
     img: "HFOZZQP.png",
     opts: {
       groups: ["idolmaster"],
-      media: ["anime"]
+      media: ["anime"]  
     }
   },
   {
@@ -1429,6 +1429,106 @@ dataSet[dataSetVersion].characterData = [
     img: "NpRcFCF.png",
     opts: {
       type: ["loli"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Tama",
+    img: "utZKd3T.png",
+    opts: {
+      groups: ["op"],
+      type: ["loli"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Becky Blackbell",
+    img: "EQctTZm.png",
+    opts: {
+      type: ["loli"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Anya Forger",
+    img: "IPxiibB.png",
+    opts: {
+      type: ["loli"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Yor Briar",
+    img: "OVR0Jnn.png",
+    opts: {
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Hinatsuru Ai",
+    img: "VFq9gCi.png",
+    opts: {
+      type: ["loli"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Akane Shinjou",
+    img: "Z8WtZc6.png",
+    opts: {
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Anaak Jahad",
+    img: "htQiLvF.png",
+    opts: {
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Anis",
+    img: "7SLIY2g.png",
+    opts: {
+      groups: ["nikke"],
+      type: ["huge"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Ankha",
+    img: "naOiNSl.png",
+    opts: {
+      media: ["game"]
+    }
+  },
+  {
+    name: "Ann Takamaki",
+    img: "3LQwYgz.png",
+    opts: {
+      groups: ["persona"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Ayaka Sunohara",
+    img: "F60Ta3h.png",
+    opts: {
+      type: ["huge"],
+      media: ["anime"]
+    }
+  },
+  {
+    name: "Bernadetta",
+    img: "ytf2SEH.png",
+    opts: {
+      media: ["game"]
+    }
+  },
+  {
+    name: "Hitori Bocchi",
+    img: "WlVnRQM.png",
+    opts: {
       media: ["anime"]
     }
   },
