@@ -1536,7 +1536,8 @@ dataSet[dataSetVersion].characterData = [
     name: "Bonny de Famme",
     img: "yhmlpbL.png",
     opts: {
-      media: ["anime"]
+      groups: ["aa"],
+      media: ["game"]
     }
   },
   {
