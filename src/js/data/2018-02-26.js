@@ -503,7 +503,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Pan",
     img: "ibQ0n3J.png",
     opts: {
-      type: ["loli"],
+      type: ["loli", "pants"],
       media: ["anime"]
     }
   },
@@ -551,15 +551,6 @@ dataSet[dataSetVersion].characterData = [
     img: "UITvFGo.png",
     opts: {
       media: ["anime"]
-    }
-  },
-    {
-    name: "Nanako Doujima",
-    img: "7DzksxK.png",
-    opts: {
-      groups: ["persona"],
-      type: ["loli"],
-      media: ["game"]
     }
   },
     {
@@ -673,14 +664,6 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Chie Satonaka",
-    img: "zEUq3sI.png",
-    opts: {
-      groups: ["persona"],
-      media: ["game"]
-    }
-  },
-  {
     name: "Perona",
     img: "huOsTqS.png",
     opts: {
@@ -695,14 +678,6 @@ dataSet[dataSetVersion].characterData = [
       groups: ["gotobun"],
       type: ["loli"],
       media: ["anime"]
-    }
-  },
-  {
-    name: "Yukiko Amagi",
-    img: "rUqU94V.png",
-    opts: {
-      groups: ["persona"],
-      media: ["game"]
     }
   },
   {
@@ -728,14 +703,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       groups: ["hxh"],
       media: ["anime"]
-    }
-  },
-  {
-    name: "Rise Kujikawa",
-    img: "Jm0W3d4.png",
-    opts: {
-      groups: ["persona"],
-      media: ["game"]
     }
   },
   {
@@ -1051,7 +1018,7 @@ dataSet[dataSetVersion].characterData = [
     img: "o6uqA8e.png",
     opts: {
       groups: ["hxh"],
-      type: ["femboy"],
+      type: ["femboy", "loli"],
       media: ["anime"]
     }
   },
@@ -1061,14 +1028,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       groups: ["hxh"],
       media: ["anime"]
-    }
-  },
-  {
-    name: "Marie",
-    img: "nSVVQoi.png",
-    opts: {
-      groups: ["persona"],
-      media: ["game"]
     }
   },
   {
@@ -1284,14 +1243,6 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Haru Okumura",
-    img: "ouiAeGo.png",
-    opts: {
-      groups: ["persona"],
-      media: ["game"]
-    }
-  },
-  {
     name: "Mt. Lady",
     img: "gwF1lm9.png",
     opts: {
@@ -1503,14 +1454,6 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Ann Takamaki",
-    img: "3LQwYgz.png",
-    opts: {
-      groups: ["persona"],
-      media: ["game"]
-    }
-  },
-  {
     name: "Ayaka Sunohara",
     img: "F60Ta3h.png",
     opts: {
@@ -1545,6 +1488,63 @@ dataSet[dataSetVersion].characterData = [
     img: "8CScXDC.png",
     opts: {
       type: ["femboy"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Nanako Doujima",
+    img: "7DzksxK.png",
+    opts: {
+      groups: ["persona"],
+      type: ["loli"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Chie Satonaka",
+    img: "zEUq3sI.png",
+    opts: {
+      groups: ["persona"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Yukiko Amagi",
+    img: "rUqU94V.png",
+    opts: {
+      groups: ["persona"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Rise Kujikawa",
+    img: "Jm0W3d4.png",
+    opts: {
+      groups: ["persona"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Marie",
+    img: "nSVVQoi.png",
+    opts: {
+      groups: ["persona"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Haru Okumura",
+    img: "ouiAeGo.png",
+    opts: {
+      groups: ["persona"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Ann Takamaki",
+    img: "3LQwYgz.png",
+    opts: {
+      groups: ["persona"],
       media: ["game"]
     }
   },
