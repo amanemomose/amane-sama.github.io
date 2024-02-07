@@ -1549,6 +1549,14 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Makoto Niijima",
+    img: "aTDHZnJ.png",
+    opts: {
+      groups: ["persona"],
+      media: ["game"]
+    }
+  },
+  {
     name: "Natsuki",
     img: "KJztGEq.png",
     opts: {
