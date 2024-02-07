@@ -1541,6 +1541,14 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Bridget",
+    img: "8CScXDC.png",
+    opts: {
+      type: ["femboy"],
+      media: ["game"]
+    }
+  },
+  {
     name: "Natsuki",
     img: "KJztGEq.png",
     opts: {
