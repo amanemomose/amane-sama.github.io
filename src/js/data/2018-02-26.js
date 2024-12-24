@@ -1557,6 +1557,62 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Fuuka Yamagishi",
+    img: "cXLyUt3.png",
+    opts: {
+      groups: ["persona"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Aigis",
+    img: "DHRAxpF.png",
+    opts: {
+      groups: ["persona"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Chidori Yoshino",
+    img: "rLsjXyG.png",
+    opts: {
+      groups: ["persona"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Mitsuru Kirijo",
+    img: "Zleo2Lk.png",
+    opts: {
+      groups: ["persona"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Chihiro Fushimi",
+    img: "NNfpHsA.png",
+    opts: {
+      groups: ["persona"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Yukari Takeba",
+    img: "1zNiWxl.png",
+    opts: {
+      groups: ["persona"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Maiko Oohashi",
+    img: "XjYNOM9.png",
+    opts: {
+      groups: ["persona"],
+      media: ["game"]
+    }
+  },
+  {
     name: "Natsuki",
     img: "KJztGEq.png",
     opts: {
