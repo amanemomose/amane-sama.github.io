@@ -1609,6 +1609,407 @@ dataSet[dataSetVersion].characterData = [
     img: "XjYNOM9.png",
     opts: {
       groups: ["persona"],
+      type: ["loli"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Venti",
+    img: "Ldm9WeU.png",
+    opts: {
+      groups: ["genshin"],
+      type: ["femboy"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "La Signora",
+    img: "i6LWN5o.png",
+    opts: {
+      groups: ["genshin"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Kachina",
+    img: "GGUzHGx.png",
+    opts: {
+      groups: ["genshin"],
+      type: ["loli"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Paimon",
+    img: "ry8gUHM.png",
+    opts: {
+      groups: ["genshin"],
+      type: ["loli"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Lumine",
+    img: "bwDzq3U.png",
+    opts: {
+      groups: ["genshin"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Emilie",
+    img: "gARJqR6.png",
+    opts: {
+      groups: ["genshin"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Siggewine",
+    img: "VWPirxD.png",
+    opts: {
+      groups: ["genshin"],
+      type: ["loli"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Arlecchino",
+    img: "0TcSCyB.png",
+    opts: {
+      groups: ["genshin"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Chevreuse",
+    img: "Jz7Ap1i.png",
+    opts: {
+      groups: ["genshin"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Furina",
+    img: "TfHMWmT.png",
+    opts: {
+      groups: ["genshin"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Navia",
+    img: "0TPfZeK.png",
+    opts: {
+      groups: ["genshin"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Layla",
+    img: "H2Ific7.png",
+    opts: {
+      groups: ["genshin"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Faruzan",
+    img: "omaSzxo.png",
+    opts: {
+      groups: ["genshin"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Nilou",
+    img: "9RCF5KB.png",
+    opts: {
+      groups: ["genshin"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Collei",
+    img: "690kF4s.png",
+    opts: {
+      groups: ["genshin"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Kirara",
+    img: "vRswQc9.png",
+    opts: {
+      groups: ["genshin"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Sara Kujou",
+    img: "c02jYFN.png",
+    opts: {
+      groups: ["genshin"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Kokomi Sangonomiya",
+    img: "qjivf1e.png",
+    opts: {
+      groups: ["genshin"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Sayu",
+    img: "IlQB1Fr.png",
+    opts: {
+      groups: ["genshin"],
+      type: ["loli"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Raiden Shogun",
+    img: "r2fETUU.png",
+    opts: {
+      groups: ["genshin"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Yaoyao",
+    img: "asKM95S.png",
+    opts: {
+      groups: ["genshin"],
+      type: ["loli"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Shenhe",
+    img: "UjK1O5Y.png",
+    opts: {
+      groups: ["genshin"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Yun Jin",
+    img: "35OAyhE.png",
+    opts: {
+      groups: ["genshin"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Hu Tao",
+    img: "ppGHTbH.png",
+    opts: {
+      groups: ["genshin"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Yanfei",
+    img: "39TqLP0.png",
+    opts: {
+      groups: ["genshin"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Ganyu",
+    img: "duUYDnz.png",
+    opts: {
+      groups: ["genshin"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Qiqi",
+    img: "1x5Q5Wh.png",
+    opts: {
+      groups: ["genshin"],
+      type: ["loli"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Xiangling",
+    img: "uFLIyFN.png",
+    opts: {
+      groups: ["genshin"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Keqing",
+    img: "Vm03iAV.png",
+    opts: {
+      groups: ["genshin"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Rosaria",
+    img: "xSqVzp1.png",
+    opts: {
+      groups: ["genshin"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Eula",
+    img: "msJ2tZ0.png",
+    opts: {
+      groups: ["genshin"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Mona",
+    img: "sTnx87V.png",
+    opts: {
+      groups: ["genshin"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Fischl",
+    img: "Sw8lavy.png",
+    opts: {
+      groups: ["genshin"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Sucrose",
+    img: "ZWumI5n.png",
+    opts: {
+      groups: ["genshin"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Noelle",
+    img: "Zwji0mZ.png",
+    opts: {
+      groups: ["genshin"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Diona",
+    img: "oFZFaBf.png",
+    opts: {
+      groups: ["genshin"],
+      type: ["loli"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Klee",
+    img: "zgCMqXF.png",
+    opts: {
+      groups: ["genshin"],
+      type: ["loli"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Lisa",
+    img: "6hCFdcF.png",
+    opts: {
+      groups: ["genshin"],
+      type: ["huge", "witch"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Jean",
+    img: "13SsRrC.png",
+    opts: {
+      groups: ["genshin"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Nahida",
+    img: "KrwFxHO.png",
+    opts: {
+      groups: ["genshin"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Chiori",
+    img: "2UpUvIl.png",
+    opts: {
+      groups: ["genshin"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Yelan",
+    img: "DepSQwP.png",
+    opts: {
+      groups: ["genshin"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Qingxiu",
+    img: "8tpnle5.png",
+    opts: {
+      groups: ["genshin"],
+      type: ["femboy"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Dahlia",
+    img: "J11BqHm.png",
+    opts: {
+      groups: ["genshin"],
+      type: ["femboy"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Barbara",
+    img: "mjIgtUF.png",
+    opts: {
+      groups: ["genshin"],
+      media: ["game"]
+    }
+  },
+  {
+    name: "Toshiko Kayura",
+    img: "BrPgn36.png",
+    opts: {
+      media: ["game"]
+    }
+  },
+  {
+    name: "Eloise Taulner",
+    img: "FKoRZqa.png",
+    opts: {
+      media: ["game"]
+    }
+  },
+  {
+    name: "Diana Venicia",
+    img: "tvSUJAo.png",
+    opts: {
+      media: ["game"]
+    }
+  },
+  {
+    name: "Grace Madison",
+    img: "Qxo22hE.png",
+    opts: {
       media: ["game"]
     }
   },
